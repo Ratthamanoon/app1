@@ -1,11 +1,10 @@
 import logo from "./logo.svg";
 import "./App.css";
 import './style.css'
-
-import { Caclulater2 } from "./calculator";
+import { EventData2 } from "./event-data";
 
 function App() {
-    return <Caclulater2/>
+    return <EventData2/>
     
 }
     
